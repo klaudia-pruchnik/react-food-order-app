@@ -1,4 +1,4 @@
-# React Food Ordering App
+# React Food Order App
 
 A food ordering application built with React as part of a Udemy course. The app allows users to browse available meals, add them to a shopping cart, and proceed to checkout. It utilizes context for state management, custom hooks for fetching data, and modal components for cart and checkout interactions.
 
@@ -12,7 +12,7 @@ A food ordering application built with React as part of a Udemy course. The app 
 
 ## Installation
 1. Clone this repository:
-   `git clone https://github.com/your-username/react-food-ordering-app.git`
+   `git clone https://github.com/your-username/react-food-order-app.git`
 2. Install dependencies:
    `npm install`
 4. Start the development server:
